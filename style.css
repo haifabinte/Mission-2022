@@ -21,6 +21,7 @@ h1{
     margin-bottom: 100px;
     padding-left: 5%;
     padding-right: 5px;
+    padding-bottom: 4px;
 }
 .half-width{
     width: 50%;
@@ -60,7 +61,7 @@ h1{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-background-color: rgb(239, 240, 240);
+background-color: rgb(232, 253, 253);
 border-radius: 5%;
  padding-left: 10px;
 }
@@ -68,15 +69,16 @@ border-radius: 5%;
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-     background-color:rgb(231, 229, 231);
+     background-color:rgb(250, 238, 238);
      border-radius: 5%;
  padding-left: 10px;
 }
 #limit{
-    font-size: 40px;
+    font-size: 25px;
 }
 .develop{
     background-image: url(images/shapes/shape-1.png);
     background-repeat:no-repeat;
     margin:none ;
 }
+
