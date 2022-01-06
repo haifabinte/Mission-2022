@@ -18,8 +18,9 @@ h1{
 }
 .flexble{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     padding-left: 5%;
+    padding-right: 5px;
 }
 .half-width{
     width: 50%;
@@ -31,11 +32,11 @@ h1{
 }
 .explore{
     text-decoration: none;
-    background-image: linear-gradient(rgb(255, 51, 0),tomato);
+    background-image: linear-gradient(rgb(241, 128, 100),tomato);
     color: white;
     font-weight: 700;
     padding: 10px 40px;
-    border: rgb(255, 51, 0) ;
+    border: rgb(250, 163, 141) ;
     border-radius: 5px;
 }
 #second{
@@ -52,6 +53,7 @@ h1{
     margin-left: 5%;
     margin-right: 5%;
     background-color: rgb(231, 229, 229);
+    border-radius: 5%;
     padding-left: 10px;
 }
 .mission-item-2nd{
@@ -59,12 +61,22 @@ h1{
     margin-left: 5%;
     margin-right: 5%;
 background-color: rgb(239, 240, 240);
+border-radius: 5%;
  padding-left: 10px;
 }
 .mission-item-3rd{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-background-color:rgb(231, 229, 231);
+     background-color:rgb(231, 229, 231);
+     border-radius: 5%;
  padding-left: 10px;
+}
+#limit{
+    font-size: 40px;
+}
+.develop{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat:no-repeat;
+    margin:none ;
 }
